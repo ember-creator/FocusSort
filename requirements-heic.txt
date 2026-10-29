@@ -1,0 +1,3 @@
+# Optional HEIC/HEIF decoding for iPhone photos.
+# The core application works without this file.
+pillow-heif>=0.16

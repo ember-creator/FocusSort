@@ -1,0 +1,8 @@
+numpy>=1.24
+Pillow>=9.5
+opencv-python-headless>=4.8
+tkinterdnd2>=0.4
+
+# Optional: HEIC/HEIF support (iPhone photos).  Core JPG/PNG/WEBP/BMP/TIFF
+# analysis works without it; install separately when needed:
+#   python -m pip install -r requirements-heic.txt

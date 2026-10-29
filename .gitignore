@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.data/
+.testcache/
+.test_tmp_*/
+.test_import/
+.test_restore/
+.test_delete_*/
+.smoke_*/
+.scratch_*/
+.launch_data*/
+error.log
+*.log
